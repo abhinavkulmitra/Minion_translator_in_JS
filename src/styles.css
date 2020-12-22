@@ -1,0 +1,51 @@
+body {
+  font-family: monospace;
+  text-align: center;
+  background-color: #f5e050;
+}
+
+.header {
+  background-color: white;
+  color: #ecd122;
+  margin: auto;
+  padding: 0.2rem;
+}
+
+textarea {
+  margin: 1rem;
+  padding: 1rem;
+  border-radius: 0.4rem;
+  border: solid 0.3rem #0A75BC;
+}
+
+.inputBtn {
+  background-color: #0A75BC;
+  color: white;
+  border: solid #0A75BC;
+  padding: 0.3rem;
+  font-size: 0.8rem;
+  margin-bottom: 1rem;
+  box-shadow: 0.1rem 0.1rem 0.1rem black;
+}
+
+#output {
+  background-color: white;
+  border: 0.1rem solid #809692;
+  padding: 2rem;
+  width: 50%;
+  height: 50%;
+  margin: auto;
+  margin-bottom: 0.8rem;
+}
+
+footer {
+  padding: 0.1rem;
+  background: white;
+  color: #0A75BC;
+}
+
+footer h3,
+span {
+  font-weight: bold;
+  color: black;
+}
